@@ -1,6 +1,6 @@
 # Wesley Boer
 
-Engenheiro de Software Full-Stack | 7 anos de experiência | Construo sistemas que eliminam trabalho manual e cortam custos operacionais
+Engenheiro de Software Full-Stack | 7 anos de experiência no ecossitema tech | Construo sistemas que eliminam trabalho manual e cortam custos operacionais
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/wesley-boer)
 [![Portfolio](https://img.shields.io/badge/Portfolio-wboer.dev-blue?style=flat)](https://wboer.dev)
