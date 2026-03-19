@@ -33,8 +33,3 @@ Engenheiro de Software Full-Stack | 7 anos de experiência no ecossistema tech |
 
 Estou aberto a novas oportunidades full-cycle / SaaS / IA aplicada. Bora conversar?  
 → wesley@wboer.dev | (44) 98404-4874 | [LinkedIn](https://linkedin.com/in/wesley-boer)
-
-## Estatísticas GitHub
-
-![Wesley's GitHub stats](https://github-readme-stats.vercel.app/api?username=WesleyBoer&show_icons=true&theme=radical&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WesleyBoer&layout=compact&theme=radical&hide_border=true)
