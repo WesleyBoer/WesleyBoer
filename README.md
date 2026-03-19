@@ -15,10 +15,10 @@ Engenheiro de Software Full-Stack | 7 anos de experiência no ecossitema tech | 
 ## Projetos em destaque
 | Projeto              | Descrição curta                                      | Impacto principal                  | Stack principal                          | Link                                      |
 |----------------------|------------------------------------------------------|------------------------------------|------------------------------------------|-------------------------------------------|
-| Clínica Reaviva     | Plataforma de telemedicina SaaS com IA               | -80% custos operacionais           | Next.js, FastAPI, LiveKit, OpenAI, RabbitMQ | [app.clinicareaviva.com.br](https://app.clinicareaviva.com.br) / [case](/project/clinica-reaviva) |
-| GetOffice           | Marketplace de locação de espaços comerciais         | Automação 100% de reservas/pagamentos | Next.js, MongoDB, Stripe, Pusher, Mapbox | [getoffice.wboer.dev](https://getoffice.wboer.dev) / [case](/project/getoffice) |
-| Klieno              | Atendimento omnichannel com IA (WhatsApp + IG + etc) | Pipeline híbrido IA-humano         | Next.js, Convex, OpenAI multi-modelo     | [app.klieno.com](https://app.klieno.com) / [case](/project/klieno) |
-| Genbot              | SaaS de IA generativa (texto/imagem/vídeo/áudio)     | Projeto de aprendizado no boom IA  | Next.js, OpenAI, Replicate, Stripe       | [genbot.wboer.dev](https://genbot.wboer.dev) / [case](/project/genbot) |
+| Clínica Reaviva     | Plataforma de telemedicina SaaS com IA               | -80% custos operacionais           | Next.js, FastAPI, LiveKit, OpenAI, RabbitMQ | [app.clinicareaviva.com.br](https://app.clinicareaviva.com.br) / [case](https://wboer.dev/project/clinica-reaviva) |
+| GetOffice           | Marketplace de locação de espaços comerciais         | Automação 100% de reservas/pagamentos | Next.js, MongoDB, Stripe, Pusher, Mapbox | [getoffice.wboer.dev](https://getoffice.wboer.dev) / [case]([/](https://wboer.dev/project/getoffice) |
+| Klieno              | Atendimento omnichannel com IA (WhatsApp + IG + etc) | Pipeline híbrido IA-humano         | Next.js, Convex, OpenAI multi-modelo     | [app.klieno.com](https://app.klieno.com) / [case]([/](https://wboer.dev/project/klieno) |
+| Genbot              | SaaS de IA generativa (texto/imagem/vídeo/áudio)     | Projeto de aprendizado no boom IA  | Next.js, OpenAI, Replicate, Stripe       | [genbot.wboer.dev](https://genbot.wboer.dev) / [case]([/](https://wboer.dev/project/genbot) |
 
 → Mais detalhes e cases completos em https://wboer.dev
 
